@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/alexchinchay/whatfast/static/css/main.2f911e70.css",
+    "main.js": "/alexchinchay/whatfast/static/js/main.88604e3b.js",
+    "static/media/logo.png": "/alexchinchay/whatfast/static/media/logo.61f859896582f3b653a3.png",
+    "index.html": "/alexchinchay/whatfast/index.html",
+    "main.2f911e70.css.map": "/alexchinchay/whatfast/static/css/main.2f911e70.css.map",
+    "main.88604e3b.js.map": "/alexchinchay/whatfast/static/js/main.88604e3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f911e70.css",
+    "static/js/main.88604e3b.js"
+  ]
+}
